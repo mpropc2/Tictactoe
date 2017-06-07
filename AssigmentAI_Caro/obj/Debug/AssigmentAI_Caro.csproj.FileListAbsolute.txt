@@ -1,0 +1,9 @@
+c:\users\ngocman\documents\visual studio 2013\Projects\AssigmentAI_Caro\AssigmentAI_Caro\bin\Debug\AssigmentAI_Caro.exe.config
+C:\Users\NgocMan\Documents\Visual Studio 2013\Projects\AssigmentAI_Caro\AssigmentAI_Caro\bin\Debug\AssigmentAI_Caro.exe
+C:\Users\NgocMan\Documents\Visual Studio 2013\Projects\AssigmentAI_Caro\AssigmentAI_Caro\bin\Debug\AssigmentAI_Caro.pdb
+C:\Users\NgocMan\Documents\Visual Studio 2013\Projects\AssigmentAI_Caro\AssigmentAI_Caro\obj\Debug\AssigmentAI_Caro.csprojResolveAssemblyReference.cache
+C:\Users\NgocMan\Documents\Visual Studio 2013\Projects\AssigmentAI_Caro\AssigmentAI_Caro\obj\Debug\AssigmentAI_Caro.Properties.Resources.resources
+C:\Users\NgocMan\Documents\Visual Studio 2013\Projects\AssigmentAI_Caro\AssigmentAI_Caro\obj\Debug\AssigmentAI_Caro.csproj.GenerateResource.Cache
+C:\Users\NgocMan\Documents\Visual Studio 2013\Projects\AssigmentAI_Caro\AssigmentAI_Caro\obj\Debug\AssigmentAI_Caro.exe
+C:\Users\NgocMan\Documents\Visual Studio 2013\Projects\AssigmentAI_Caro\AssigmentAI_Caro\obj\Debug\AssigmentAI_Caro.pdb
+C:\Users\NgocMan\Documents\Visual Studio 2013\Projects\AssigmentAI_Caro\AssigmentAI_Caro\obj\Debug\AssigmentAI_Caro.frmMain.resources
